@@ -14,6 +14,11 @@
    Follow the installation guide here:
    [Installing ADB on Windows, macOS, and Linux](https://www.xda-developers.com/install-adb-windows-macos-linux/)
 
+- You also **Must have ffmpeg** on your system.
+    Follow the installation guide here:
+    [Installing ffmpeg on Windows, macOS, and Linux](https://ffmpeg.org/download.html)
+
+
 ------
 
 ### Setup Virtual Environment
@@ -66,9 +71,7 @@ The GUI will launch automatically.
 <br>
 <br>
 <br>
-
-
-
+------
 ```
 MIT License
 
