@@ -1208,7 +1208,7 @@ class ConfigManager:
     
     @classmethod
     def _merge_configs(cls, base: dict, overlay: dict) -> dict:
-        """Recursively merge two configuration dictionaries.""" 
+        """Recursively merge two configuration dictionaries."""  
         result = base.copy()
         for key, value in overlay.items():
             if key in result and isinstance(result[key], dict) and isinstance(value, dict):
