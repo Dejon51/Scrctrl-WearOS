@@ -52,7 +52,12 @@ pip install -r requirements.txt
 
 Start the app by running:
 
+Enable Developer settings then enable wireless debugging then use code.
+
 ```
+adb pair <ip>:<port>
+adb connect <ip>:<port>
+
 python3 scrctrl.py
 ```
 
