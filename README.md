@@ -15,7 +15,7 @@
    [Installing ADB on Windows, macOS, and Linux](https://www.xda-developers.com/install-adb-windows-macos-linux/)
 
 - You also **Must have ffmpeg** on your system.
-    Follow the installation guide here:
+    Download ffmpeg from here:
     [Installing ffmpeg on Windows, macOS, and Linux](https://ffmpeg.org/download.html)
 
 
